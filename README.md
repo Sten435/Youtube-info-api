@@ -1,11 +1,4 @@
-![Logo](https://sten435.sirv.com/Images/image.webp)
+# Youtube-Title-API
 
-
-# API-HOGENT
-(UNOFFICIAL)
-
-## API & Documentatie
-https://api-hogent.vercel.app/
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## How To Use:
+https://youtube-title-api.vercel.app/
