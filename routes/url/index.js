@@ -12,6 +12,7 @@ const Url = async (req, res) => {
 				url: videoInfo.url,
 				description: videoInfo.description,
 				creator: videoInfo.creator,
+				titel: videoInfo.title,
 				channelId: videoInfo.channelId,
 				thumbnailUrl: videoInfo.thumbnailUrl,
 				datePublished: videoInfo.datePublished,
