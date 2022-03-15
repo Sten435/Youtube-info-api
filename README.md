@@ -1,4 +1,4 @@
-# Youtube-Title-API
+# youtube-video-api
 
 ## How To Use:
-https://youtube-title-api.vercel.app/
+https://youtube-video-api.vercel.app/
