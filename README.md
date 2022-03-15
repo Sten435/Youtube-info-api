@@ -1,4 +1,5 @@
-# youtube-video-api
+# youtube-info-api
 
 ## How To Use:
-https://youtube-video-api.vercel.app/
+
+https://youtube-info-api.vercel.app/
