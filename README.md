@@ -2,4 +2,4 @@
 
 ## How To Use:
 
-[Working version]([https://youtube-info.ga/](https://youtube-info-api.vercel.app/))
+[Working version](https://youtube-info-api.vercel.app/)
