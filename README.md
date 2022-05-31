@@ -2,4 +2,4 @@
 
 ## How To Use:
 
-https://youtube-info-api.vercel.app/
+[Test version](https://youtube-info.ga/)
